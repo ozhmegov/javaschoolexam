@@ -11,7 +11,7 @@ The exam includes 2 tasks to be done: [Pyramid](/tasks/Pyramid.md), [Zones](/tas
 ### Result ###
 
 * Author name : Ozhmegov Egor
-* Codeship : [ ![Codeship Status for tschool/javaschoolexam](https://app.codeship.com/projects/245197/status?branch=master)](https://app.codeship.com/projects/245197)
+* Codeship : [ ![Codeship Status for tschool/javaschoolexam](https://app.codeship.com/projects/245197/builds/28385882?pipeline=75d257d0-b925-4669-a7f1-3880ad05a83f)](https://app.codeship.com/projects/245197)
 
 
 ### How to start?  ###
