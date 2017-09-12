@@ -11,11 +11,7 @@ The exam includes 2 tasks to be done: [Pyramid](/tasks/Pyramid.md), [Zones](/tas
 ### Result ###
 
 * Author name : Ozhmegov Egor
-* Codeship : Badge
-
-Example of Codeship badge. Please remove the example before you send us the link. 
-[ ![Codeship Status for tschool/javaschoolexam](https://app.codeship.com/projects/a9af8940-d130-0134-89a6-5e8aaaa2a5a2/status?branch=master)](https://app.codeship.com/projects/201451)
-
+* Codeship : https://app.codeship.com/projects/245197/builds/28384813?pipeline=f6a5d29a-10f8-4f4e-ae50-f1ab945f5678
 
 ### How to start?  ###
 * Install [GIT](https://git-scm.com/) and [Maven](https://maven.apache.org)
