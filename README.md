@@ -11,7 +11,7 @@ The exam includes 2 tasks to be done: [Pyramid](/tasks/Pyramid.md), [Zones](/tas
 ### Result ###
 
 * Author name : Ozhmegov Egor
-* Codeship : https://app.codeship.com/projects/245197/builds/28384813?pipeline=f6a5d29a-10f8-4f4e-ae50-f1ab945f5678
+* Codeship : https://codeship.com/projects/245197/status?branch=master
 
 ### How to start?  ###
 * Install [GIT](https://git-scm.com/) and [Maven](https://maven.apache.org)
